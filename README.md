@@ -53,7 +53,7 @@ KR rewards and Krunker account verification is typically awarded based on contri
 
 We will also assign the Translator Contributor role in [Krunker Bunker](https://discord.gg/krunker) Discord with a unique colour!
 
-![Translator Contributor](https://c8.idle.host/img/kb-translator-role.png)
+![Translator Contributor](https://cdn.discordapp.com/attachments/808917159521681409/839019546979336192/unknown.png)
 
 If you need any assistance, please reach out to Translator Contributors in [Krunker Bunker](https://discord.gg/krunker) Discord, or reach out to frzn on [Twitter](https://twitter.com/frznmatt) or Discord (frzn#1030) for further assistance.
 
